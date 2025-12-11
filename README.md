@@ -26,6 +26,9 @@ Final-year Bachelor student focused on creating mobile and web applications with
 ***
 
 ## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flufflingon&show_icons=true&hide_border=true)](https://github.com/flufflingon)
+![](https://github-readme-stats.vercel.app/api?username=flufflingon&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=flufflingon&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flufflingon&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ***
